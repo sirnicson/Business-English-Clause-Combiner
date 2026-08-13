@@ -1,4 +1,4 @@
-🇬🇧 English Foundations - Module 2: Clause Combiner
+## Business English - Clause Combiner
 
 An interactive, single-file web application designed for intermediate/advanced adult ESL learners and exam candidates (IELTS, TOEFL, iTEP). Building on the foundational syntax learned in Module 1, this tool shifts the learner's focus from individual words to structural "chunks"—helping them master complex sentences, relative clauses, and passive voice.
 
